@@ -1,4 +1,4 @@
-# Proyecto modificado desde rama-a
+# Proyecto modificado (combinando rama-a y rama-b)
 este es mi repositorio de practica
 Aprendiendo git paso a paso
 ## Nueva seccion experimental
