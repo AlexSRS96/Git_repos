@@ -4,3 +4,4 @@ Aprendiendo git paso a paso
 ## Esta seccion es Experimental (combinando rama-c y rama-d)
 Esta es una nueva linea para prueba-2
 repositorio conectado a Github
+Este cambio se realizo desde GitHub
