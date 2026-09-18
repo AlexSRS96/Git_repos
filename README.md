@@ -7,3 +7,4 @@ repositorio conectado a Github
 Este cambio se realizo desde GitHub
 ## titulo para prueba enviando a Github
 esta seccion es contenido para enviar a repo local desde github
+## Nueva funcionalidad propuesta
