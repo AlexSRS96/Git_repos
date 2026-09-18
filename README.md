@@ -7,4 +7,5 @@ repositorio conectado a Github
 Este cambio se realizo desde GitHub
 ## titulo para prueba enviando a Github
 esta seccion es contenido para enviar a repo local desde github
-## Nueva funcionalidad propuesta
+## Nueva funcionalidad propuesta para uso de PullRequest (actualizado)
+Esta seccion se utilizara para realizar prueba con git pull
