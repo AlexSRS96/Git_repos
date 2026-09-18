@@ -1,0 +1,11 @@
+# Archivos de configuracion sensibles
+*.env
+*.config
+
+# Carpetas generadas
+bin/
+obj/
+
+# Archivos temporales
+*.log
+*.tmp 
